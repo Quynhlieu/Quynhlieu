@@ -1,8 +1,7 @@
-<h3 align="center">I am Quynh, a student at Nong Lam University, Ho Chi Minh City, currently exploring the world of data analysis and software development. I am eager to learn and grow in both fields while contributing to meaningful projects.</h3>
+<h1 align="center">👋 Hello there I'm Lieu Thi Diem Quynh.</h1>
+<h3 align="center">A front end and data analyst intern.</h3>
 
-- 🌱 I’m currently learning **Odoo**
-
-- ⚡ Fun fact **I love sleeping**
+- 🌱 I’m currently learning **Data Warehousing, ETL processes, Odoo ERP development**
 
 - 📫 How to reach me **lieuquynh1601@gmail.com**
 
